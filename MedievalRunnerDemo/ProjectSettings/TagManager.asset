@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bounce
+  - PlayerArrow
+  - Enemy
+  - EnemyArrow
+  - CollectToWin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Bounce
+  - Detector
+  - Enemy
+  - PlayerArrow
+  - EnemyArrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundSky
+    uniqueID: 2282226525
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arrow
+    uniqueID: 3216484383
+    locked: 0
+  - name: Ground
+    uniqueID: 201335645
+    locked: 0
+  - name: Enemies
+    uniqueID: 2425891021
+    locked: 0
+  - name: Player
+    uniqueID: 3704629775
+    locked: 0
+  - name: Brigde
+    uniqueID: 281824757
+    locked: 0
+  - name: UI
+    uniqueID: 1601806621
+    locked: 0
+  - name: Fader
+    uniqueID: 2042352107
+    locked: 0
